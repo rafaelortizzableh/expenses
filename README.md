@@ -1,16 +1,14 @@
-# accounting
+# Expenses Flutter App
 
-A new Flutter project.
+Extension of Academind Flutter course Expenses project. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About this prohect
 
-A few resources to get you started if this is your first Flutter project:
+This project is an extension of the project covered on the Academind Project. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Added to this project is Hive support to save expenses locally and Riverpod support to control state across the different Widgets. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Folder by Feature Structure is used on this version of the app. 
+
+A few extra modifications have been added, such as a general view of the past month, and the past year in terms of expenses (made with a side-scrolling listview).
